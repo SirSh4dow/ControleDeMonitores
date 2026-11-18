@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Version>1.0.0</Version>
+    <Product>Controle de Monitores</Product>
+    <Authors>SirSh4dow</Authors>
+    <Description>Utilitário leve para gerenciamento de múltiplos monitores, resolução, taxa de atualização, orientação e posicionamento no Windows.</Description>
+  </PropertyGroup>
+</Project>
